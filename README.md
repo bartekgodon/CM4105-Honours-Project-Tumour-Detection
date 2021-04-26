@@ -1,1 +1,1 @@
-# CM4105_Honours_Project_Tumour_Detection
+# CM4105 Honours Project Tumour Detection
